@@ -19,17 +19,16 @@ export default {
 </header>
 
 <div id="cont-row1">
-  
+  <router-link to="/articulo_1" class="articulo_router">
   <div id="cont-art-1">
       <img id="foto-art-1" src="https://gestion.portalbiesa.com/redaccio/arxius/imatges/201907/770_1562576640blog_post_viajarperros_1.jpg" alt="Articulo1" class="Imagen_Articulo">
-<router-link to="/articulo_1" class="articulo_router">
       <div id="p-cont1">
         <h4>Consejos</h4>
         <h3 class="Titulo_Articulo">Viajar con perros:</h3> 
         <p>Ya se acercan las vacaciones de verano.<br> Notamos ese nerviosismo sano que nos<br> entra cuando pensamos en nuestros<br> planes de viaje. ¡Y no olvidamos a nuestro<br> perro!...</p> 
       </div>
-    </router-link>
   </div> 
+  </router-link>
   <router-link to="/articulo_2" class="articulo_router">
   <div id="cont-art-2">
       <img id="foto-art-2" src="https://gestion.portalbiesa.com/redaccio/arxius/imatges/202207/770_1658237010blog_post_suenan_perros_1.jpg" alt="Articulo2" class="Imagen_Articulo">
