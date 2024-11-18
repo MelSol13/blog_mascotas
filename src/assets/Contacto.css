@@ -1,0 +1,46 @@
+#head-contacto{ 
+    background: linear-gradient(to right,#44ddd0, #2c849d, #0c8768);
+    color: white;
+    height: 150px;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+}
+
+.Blog_Logo{
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+}
+
+.Titulo_Princ{
+    font-family:'Rock Salta', cursive;
+    font-size: 40px;
+    margin-left: 520px;
+    text-align: center;
+}
+
+#p-contacto{
+    text-align: center;
+    font-family:'Rock Salta', cursive;
+    font-size: 20px;
+    margin-top: 150px;
+}
+
+#contacto-banner{
+    margin-top: 100px;
+}
+
+#p-footer{
+    font-family: 'Rock Salta', cursive;
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    margin-left: 430px;
+}
+
+#icono-footer{
+    width: 100px;
+    height: 100px;
+}
